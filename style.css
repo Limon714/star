@@ -41,6 +41,7 @@ img{
     align-items: center;
     justify-content: center;
     margin-left: 500px;
+    animation: rotat 3s infinite;
 }
 @keyframes rotat{
     0%{
